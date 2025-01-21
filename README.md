@@ -2,7 +2,7 @@
 
 Bienvenido a mi perfil de GitHub.
 
-Actualmente curso un grado en Ciencia de Datos aplicada y colaboro con otros estudiantes en un proyecto divulgativo sobre IoT (Internet of thinks).
+Actualmente curso un grado en Ciencia de Datos aplicada y desarrollo un proyecto de visualización de datos.
 
 📫 Si hemos de colaborar en GitHub contacta conmigo en: mgnielg@uoc.edu.
 
